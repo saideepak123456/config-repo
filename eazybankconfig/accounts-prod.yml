@@ -1,5 +1,5 @@
 build:
-  version: "4.0"
+  version: "1.0"
 
 accounts:
   message: "Welcome to EazyBank cards related production APIs "
