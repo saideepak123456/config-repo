@@ -2,7 +2,7 @@ build:
    version: "3.0"
    
 accounts:
-    message: "Welcome to EasyBank accounts related to Common APIs"
+    message: "Welcome to EasyBank accounts related to APIs"
     contactDetails:
         name: "John Doe -Developer"
         email: "john@easzybank.com"
